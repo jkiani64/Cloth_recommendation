@@ -3,7 +3,7 @@ dash-core-components==0.43.0
 dash-html-components==0.13.5
 dash-renderer==0.17.0
 dash-table==3.7.0
-dask==1.1.4
+dask==2021.10.0
 Flask==1.0.1
 Flask-Caching==1.4.0
 Flask-Compress==1.4.0
